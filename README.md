@@ -6,3 +6,4 @@ Este é o repositório principal para a atividade de GitFlow.
 
 1. Regra de cadastro A
 2. Regra de cadastro B
+3. Regra de cadastro C
