@@ -6,3 +6,4 @@ Este é o repositório principal para a atividade de GitFlow.
 
 1. Regra de login A
 2. Regra de login B
+3. Regra de login C
